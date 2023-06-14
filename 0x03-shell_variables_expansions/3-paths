@@ -1,2 +1,2 @@
 #!/bin/bash
-alias h='$PATH; wc-l'
+alias h='$PATH | wc-l'
